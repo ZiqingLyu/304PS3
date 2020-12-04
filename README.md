@@ -1,1 +1,1 @@
-# 2020 American Election Prediction 
+# 2020 American Presidential Election Prediction 
